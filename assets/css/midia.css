@@ -1,0 +1,1340 @@
+@media screen and (max-width: 1322px) {
+    .section-escritorio{
+        background-image: url("/assets/imagens/imagem-escritorio-805x497.png");
+        width: 805px;
+        height: 497px;
+       
+    }
+    .escritorio-texto{
+        top: 300px;
+    }
+    .work{
+        width: 805px;
+    }
+    .div-esquerda-main3{
+        background-image: url("/assets/imagens/livro-400x402.png");
+        width: 400px;
+        height: 401px;
+    }
+    .conteudo-main3-esquerda{
+        top: 270px;
+        padding-left: 30px;
+    
+    }
+    .div-direita-main3{
+        background-image: url("/assets/imagens/portfolio-400x401.png");
+        width: 400px;
+        height: 401px;
+    }
+    .conteudo-direita-main3{
+        width: 340px;
+        height: 340px;
+
+    }
+    .logo-amazing{
+        top: 93px;
+        left: 94px;
+    }
+    .pesquisa2-main{
+        
+        left: 240px;
+        top: 280px;
+        
+    }
+    .div-esquerda-main4{
+        background-image: url("/assets/imagens/portfolio-relogio-400x402.png");
+        width: 400px;
+        height: 401px;
+        
+    }
+    .pesquisa3-main{
+        left: 300px;
+        top: 15px; 
+    }
+    .conteudo-main4{
+        width: 400px;
+        height: 82px;
+        position: absolute;
+        background: #00000094;
+        top: 319px;
+        padding-left: 26px;
+        padding-top: 23px;
+    }
+    .div-direita-main4{
+        background-image: url("/assets/imagens/remedio-400x402.png");
+        width: 400px;
+        height: 401px;
+    }
+    .pesquisa4-main{
+        left: 300px;
+        top: 290px;
+        
+    }
+    .conteudo-direita-main4{
+        left: 215px;
+        top: 320px;
+       
+    }
+    .div-esquerda-main5{
+        background-image: url("/assets/imagens/lixeiro-400x401.png");
+        width: 400px;
+        height: 401px;
+    }
+    .pesquisa5-main{
+        left: 300px;
+        top: 15px;
+    }
+    .conteudo-direita-main5{
+        top: 170px;
+        left: 103px;
+    }
+    .div-direita-main5{
+        background: #ffffff;
+        width: 400px;
+        height: 401px;
+    }
+    .pesquisa6-main{
+        left: 300px;
+        top: 15px;
+    }
+    .conteudo-esquerda-main5{
+        top: 186px;
+        left: 103px;
+        
+    }
+    .div-esquerda-main6{
+        background-image: url("/assets/imagens/acessorios-400x401.png");
+        width: 400px;
+        height: 401px;
+    }
+    .pesquisa7-main{
+        left: 300px;
+        top: 15px;
+    }
+    .conteudo-esquerda-main6{
+        top: 319px;
+        background: #5077FB;
+        width: 400px;
+        height: 82px;
+        padding-left: 25px;
+        padding-top: 7px;
+     
+    }
+    .div-direita-main6{
+        background-image: url("/assets/imagens/cadernos-400x401.png");
+        width: 400px;
+        height: 401px;
+    }
+    .pesquisa8-main{
+        left: 300px;
+        top: 15px;
+    }
+    .conteudo-direita-main6{
+        top: 170px;
+        left: 103px;
+        text-align: center;
+    }
+    .div-esquerda-main7{
+        background-image: url("/assets/imagens/bicicleta-400x401.png");
+        width: 400px;
+        height: 401px;
+    }
+    .pesquisa9-main{
+        left: 160px;
+        top: 280px;
+    }
+    .conteudo-esquerda-main7{
+        top: 310px;
+        left: 113px;
+    }
+    .div-direita-main7{
+        background: #5077FB;
+        width: 400px;
+        height: 401px;
+    }
+    .pesquisa10-main{
+        left: 300px;
+        top: 15px;
+    }
+    .conteudo-direita-main7{
+        top: 170px;
+        left: 103px;
+        text-align: center;
+    }
+    .section-blog{
+        width: 805px;
+        height: 91px;
+    }
+    .div-blog1-esquerda{
+        background-image: url("/assets/imagens/cafe-400x292.png");
+        width: 400px;
+        height: 292px;
+    }
+    .div-blog1-direita{
+        width: 405px;
+        height: 292px;
+        background: #ffffff;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 10px;
+       
+    }
+    .div-comentario-blog{
+        width: 340px;
+        height: 30px;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 10px;
+    }
+    .p-texto-blog{
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .btn-read-azul{
+        top: 230px;
+    }
+    .div-blog2-esquerda{
+        background-image: url("/assets/imagens/carro-400x292.png");
+        width: 400px;
+        height: 292px;
+    }
+    .div-blog3-esquerda{
+        background-image: url("/assets/imagens/beleza-400x292.png");
+        width: 400px;
+        height: 292px;
+    }
+    .div-blog4-esquerda{
+        background-image: url("/assets/imagens/symbol-400x292.png");
+        width: 400px;
+        height: 292px;
+    }
+    .div-blog1-direita2{
+        width: 405px;
+        height: 292px;
+        background: #5077FB;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 10px;
+        position: relative;
+    }
+    .p-texto-blog-2{
+        font-size: 14px;
+        margin-top: 10px;
+    }
+    .btn-read-branco{
+        top: 230px;
+    }
+    .section-what{
+        width: 805px;
+    }
+    .div1-section-what{
+        width: 265px;
+        height: 294px;
+    }
+    .cabeçalho-section-what{
+        width: 265px;
+    }
+    .div-background-what{
+        background-image: url("/assets/imagens/img-celular-265x209.png");
+        width: 265px;
+        height: 209px;
+    }
+    .div-background2-what{
+        background-image: url("/assets/imagens/img-girassol-265x209.png");
+        width: 265px;
+        height: 209px;
+    }
+    .div-background3-what{
+        background-image: url("/assets/imagens/img-grafico-265x209.png");
+        width: 265px;
+        height: 209px;
+    }
+    .section-our{
+        width: 805px;
+    }
+    .article-tom{
+        width: 805px;
+    }
+    .div-esquerda-tom{
+        width: 403px;
+    }
+    .div-direita-tom{
+        width: 402px;
+    }
+    .article-dereck{
+        width: 805px;  
+    }
+    .div-esquerda-dereck{
+        width: 403px;
+    }
+    .div-direita-dereck{
+        width: 402px;
+    }
+    .article-bob{
+        width: 805px;
+    }
+    .div-esquerda-bob{
+        width: 403px;
+    }
+    .div-direita-bob{
+        width: 402px;
+    }
+    .section-footer{
+        width: 805px;
+    }
+    .div-mapa{
+        height: 400px;
+    }
+    .mapa-1{
+        display: none;
+    }
+    .mapa-2{
+        display: block;
+        width: 403px;
+        height: 400px;
+    }
+    .h2-form{
+        margin-bottom: 12px;
+    }
+    .div-form{
+        width: 402px;
+        height: 400px;
+        background: #5077FB;
+        padding-top: 20px;
+        padding-left: 30px;
+    }
+    .formulario{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+       
+    }
+    .input-name{
+        width: 340px;
+    }
+    .input-email{
+        width: 340px;
+    }
+    .input-subject{
+        width: 340px;
+    }
+    #textearea-footer{
+        width: 340px;
+    }
+    .btn-send{
+        top: 272px;
+        left: 249px;
+    }
+    .seção-2-footer{
+        width: 805px;
+        margin-top: 5px;
+    }
+    nav{
+        padding-top: 20px;
+        height: 250px;
+    }
+    .div-logo-kodra{
+        height: 250px;
+    }
+    .container-header-principal{
+        height: 1000px;
+    }
+    
+}
+@media screen and (max-width: 1198px) {
+    .container-header-principal{
+        width: 300px;
+    }
+    .div-input-header{
+        width: 220px;
+    }
+    .input-header{
+        width: 165px;
+    }
+    .shot-img{
+        width: 45px;
+        height: 45px;
+    }
+}
+@media screen and (max-width: 1128px) {
+    .container-header-principal{
+        width: 200px;
+        height: 920px;
+    }
+    nav{
+        padding-left: 20px;
+    }
+    .div-input-header{
+        margin-left: 20px;
+        margin-right: 20px;
+        width: 150px;
+        padding-right: 10px;
+    }
+    .input-header{
+        padding-left: 10px;
+        width: 100px;
+    }
+    .lupa-branca{
+        width: 20px;
+        height: 20px;
+        
+       
+    }
+    .div-shots{
+        margin-left: 20px;
+        margin-right: 0;
+        height: 130px;
+    }
+    .Shots-seção-1{
+        gap: 10px;
+    }
+    .Shots-seção-2{
+        gap: 10px;
+    }
+    .shot-img{
+        width: 33px;
+        height: 33px;
+    }
+    .div-social{
+        width: 200px;
+        margin-left: 20px;
+        margin-top: 35px;
+    }
+    .div-logo-rede{
+        width: 30px;
+        height: 30px;
+        padding: 5px;
+       
+    }
+    .logo-rede-header{
+        width: 20px;
+        height: 20px;
+    }
+} 
+    @media screen and (max-width: 1028px)  {
+        .container-header-principal{
+            width: 150px;
+            height: 900px;
+        }
+        .div-montanha{
+            width: 61px;
+            height: 27px;
+        }
+        h1{
+            width: 81px;
+            height: 40px;
+            margin-top: 8px;
+        }
+       
+            
+        .texto-logo-kodra{
+            font-size: 13px;
+            color: #ffffff;
+            text-align: center;
+            max-width: 349px;
+            margin-top: 0;
+        }
+        nav{
+            padding-left: 10px;
+        }
+        .div-input-header{
+            margin-left: 10px;
+            margin-right: 10px;
+            width: 125px;
+            padding-right: 10px;
+        }
+        .input-header{
+            padding-left: 10px;
+            width: 90px;
+            font-size: 11px;
+        }
+        .div-shots{
+            margin-left: 10px;
+            padding-right: 10px;
+            height: 124px;
+        }
+        .h2-shots{
+            font-size: 14px;
+        }
+        .imagens-shots{
+            margin-top: 10px;
+        }
+        .Shots-seção-1{
+            gap: 5px;
+        }
+        .Shots-seção-2{
+            gap: 5px;
+            margin-top: 10px;
+        }
+        .shot-img{
+            width: 29px;
+            height: 29px;
+        }
+        .div-social{
+            width: 135px;
+            margin-left: 10px;
+            margin-top: 35px;
+        }
+        .logos-rede-social{
+            gap: 5px;
+        }
+        .div-logo-rede{
+            width: 29px;
+            height: 29px;
+            padding: 5px;
+           
+        }
+        .logo-rede-header{
+            width: 19px;
+            height: 19px;
+        }
+        .h3-social{
+            font-size: 14px;
+        }
+    }
+    @media screen and (max-width: 978px) {
+        body{
+            display: flex;
+            flex-direction: column;
+        }
+        .container-header-principal{
+            width: 805px;
+            height: 170px;
+            margin: 0 auto;
+        }
+        main{
+            margin: 0 auto;
+        }
+        header{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            max-width: 805px;
+            padding-left: 20px;
+            padding-right: 10px;
+        }
+        .div-logo-kodra{
+            height: 150px;
+            padding-top: 20px;
+            border: none;
+        }
+        .div-social{
+            display: none;
+        }
+        .div-shots{
+            display: none;
+        }
+        .div-input-header{
+            display: none;
+        }
+        nav{
+            width: 440px;
+            height: 70px;
+            padding-left: 0;
+            border: none;
+        }
+        .ul-header{
+            display: flex;
+            gap: 20px;
+        }
+        .li-header:hover{
+            border-bottom: 2px solid yellow;
+            transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);
+            transition-duration: .1s;
+    }
+    }
+    @media screen and (max-width: 822px) {
+        .container-header-principal{
+            width: 460px;
+            height: 140px;
+            padding-top: 20px;
+          
+        }
+        header{
+            width: 460px;
+            padding-right: 20px;
+          
+        }
+        .div-logo-kodra{
+            height: 100px;
+            padding-top: 0;
+        }
+        .div-montanha{
+            width: 61px;
+            height: 25px;
+        }
+        .logo-montanha{
+            width: 51px;
+            height: 20px;
+          
+        }
+        h1{
+            width: 81px;
+            height: 35px;
+            margin-top: 0;
+        }
+        .kodra-1{
+            width: 75px;
+            height: 26px;
+        }
+        .texto-logo-kodra{
+            font-size: 11px;
+            color: #ffffff;
+            text-align: center;
+            max-width: 349px;
+            margin-top: 0;
+        }
+        .ul-header{
+          display: none;
+        }
+        .div-menu-mobile{
+            display: block;
+        }
+        .img-menu-mobile{
+            width: 40px;
+            height: 40px;
+        }
+        .section-escritorio{
+            background-image: url("/assets/imagens/imagem-escritorio-460x284.png");
+            width: 460px;
+            height: 284px;
+           
+        }
+        .escritorio-texto{
+            top: 135px;
+            padding-left: 20px;
+        }
+        .h2-escritorio{
+            font-size: 25px;
+        }
+        .div-style{
+            font-size: 14px;
+            background: #5077FB;
+            color: white;
+            font-size: 15px;
+            width: 75px;
+            height: 23px;
+            padding-left: 10px;
+            padding-top: 2px;
+            font-family: 'Montserrat' , sans-serif;
+            font-weight: 400;
+            
+        }
+        .p-escritorio{
+            font-size: 13px;
+            color: #92A4B1;
+        
+        }
+        .div-quadrados-escritorio{
+            margin-top: 15px;
+        }
+        .div-01-escritorio{
+            border: 1px solid #141823;
+            width: 48px;
+            height: 47px;
+            font-size: 22px;
+            color: #141823;
+            padding-top: 5px;
+            padding-left: 12px;
+        
+        }
+        .seta-escritorio{
+            border: 1px solid #141823;
+            width: 48px;
+            height: 21px;
+            padding-left: 10px;
+        }
+        .seta{
+            width: 20px;
+            height: 20px;
+        }
+        .work{
+            width: 460px;
+            height: 80px;
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+        .div-esquerda-main3{
+            background-image: url("/assets/imagens/livro-227x228.png");
+            width: 227px;
+            height: 228px;
+        }
+        .conteudo-main3-esquerda{
+            top: 140px;
+            padding-left: 20px;
+        
+        }
+        .h2-headphone{
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        .h2-headphone-2{
+            margin-top: 10px;
+            font-size: 14px;
+        }
+        .h2-clock{
+            font-size: 14px;
+        }
+        .p-branding{
+            font-size: 11px;
+        }
+        .p-branding-2{
+            font-size: 11px;
+            margin-top: 5px;
+        }
+        .lupa1-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            background: #5077FB;
+        }
+        .folha1-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            background: #0000006f;
+        }
+        .lupa-main2{
+            width: 20px;
+            height: 20px;
+        }
+        .folha-main2{
+            width: 20px;
+            height: 20px;
+        }
+        .conteudo-direita-main3{
+            width: 168px;
+            height: 172px;
+            background: #5077FB;
+            position: relative;
+        }
+        .div-direita-main3{
+            background-image: url("/assets/imagens/portfolio-228x229.png");
+            width: 228px;
+            height: 228px;
+        }
+        .logo-amazing{
+            width: 100px;
+            height: 104px;
+            position: absolute;
+            top: 34px;
+            left: 34px;
+        }
+        .pesquisa2-main{
+            display: flex;
+            position: absolute;
+            top: 140px;
+            left: 110px;
+         
+         }
+         .lupa2-main{
+             width: 25px;
+             height: 25px;
+             padding-top: 2px;
+             padding-left: 2px;
+             background: #ffffff;
+         }
+         .folha2-main{
+             width: 25px;
+             height: 25px;
+             padding-top: 2px;
+             padding-left: 2px;
+             border: 1px solid #ffffff;
+         }
+         .div-esquerda-main4{
+            background-image: url("/assets/imagens/portfolio-relogio-227x228.png");
+            width: 227px;
+            height: 228px;
+            
+        }
+        .conteudo-main4{
+            width: 227px;
+            height: 62px;
+            position: absolute;
+            background: #00000094;
+            top: 166px;
+            padding-left: 10px;
+            padding-top: 10px;
+        }
+        .pesquisa3-main{
+            display: flex;
+            position: absolute;
+            left: 155px;
+            top: 10px;
+            
+        }
+        .lupa3-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left:5px;
+            background: #5077FB;
+        }
+        .folha3-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            background: #ffffff;
+        }
+        .div-direita-main4{
+            background-image: url("/assets/imagens/remedio-228x229.png");
+            width: 228px;
+            height: 229px;
+        }
+        .pesquisa4-main{
+            left: 150px;
+            top: 140px;
+            
+        }
+        .lupa4-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            background: #5077FB;
+        }
+        .folha4-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            background: #ffffff;
+        }
+        .conteudo-direita-main4{
+            left: 75px;
+            top: 170px;   
+        }
+        .div-esquerda-main5{
+            background-image: url("/assets/imagens/lixeiro-227x228.png");
+            width: 227px;
+            height: 228px;
+        }
+        .pesquisa5-main{
+            left: 150px;
+            top: 10px;
+        }
+        .lupa5-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            border: 1px solid white;   
+        }
+        .folha5-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            background: #5077FB;
+            border: 1px solid white;  
+        }
+        .conteudo-direita-main5{
+            top: 90px;
+            left: 34px;
+        }
+        .div-direita-main5{
+            background: #ffffff;
+            width: 228px;
+            height: 228px;
+        }
+        .pesquisa6-main{
+            left: 150px;
+            top: 10px;
+        }
+        .lupa6-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            border: 1px solid #5077FB;
+            background: #5077FB;
+            
+        }
+        .folha6-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            border: 1px solid #5077FB;
+            
+        }
+        .conteudo-esquerda-main5{
+            top: 90px;
+            left: 34px;   
+        }
+        .div-esquerda-main6{
+            background-image: url("/assets/imagens/acessorios-227x228.png");
+            width: 227px;
+            height: 228px;
+        }
+        .pesquisa7-main{
+            left: 150px;
+            top: 10px;
+        }
+        .lupa7-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            background: #5077FB; 
+        }
+        .folha7-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            background: #FFFFFF;
+        }
+        .conteudo-esquerda-main6{
+            top: 146px;
+            background: #5077FB;
+            width: 227px;
+            height: 82px;
+            padding-left: 20px;
+            padding-top: 7px;
+         
+        }
+        .div-direita-main6{
+            background-image: url("/assets/imagens/cadernos-228x229.png");
+            width: 228px;
+            height: 229px;
+        }
+        .pesquisa8-main{
+            left: 150px;
+            top: 10px;
+        }
+        .lupa8-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            border: 1px solid #ffffff;
+        }
+        .folha8-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            background: #FFFFFF;
+            
+        }
+        .conteudo-direita-main6{
+            top: 90px;
+            left: 34px;
+            text-align: center;
+        }
+        .div-esquerda-main7{
+            background-image: url("/assets/imagens/bicicleta-227x228.png");
+            width: 227px;
+            height: 228px;
+        }
+        .pesquisa9-main{
+            left: 85px;
+            top: 155px;
+        }
+        .lupa9-main{
+            width: 28px;
+            height: 28px;
+            padding-top: 4px;
+            padding-left: 4px;
+            background: #5077FB; 
+        }
+        .folha9-main{
+            width: 28px;
+            height: 28px;
+            padding-top: 4px;
+            padding-left: 4px;
+            background: #FFFFFF; 
+        }
+        .conteudo-esquerda-main7{
+            top: 175px;
+            left: 34px;
+        }
+        .div-direita-main7{
+            background: #5077FB;
+            width: 228px;
+            height: 228px;
+        }
+        .pesquisa10-main{
+            left: 150px;
+            top: 10px;
+        }
+        .lupa10-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            border: 1px solid white;
+            
+        }
+        .folha10-main{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            background: #5077FB;
+            border: 1px solid white;
+            
+        }
+        .conteudo-direita-main7{
+            top: 90px;
+            left: 34px;
+            text-align: center;
+        }
+        .section-blog{
+            width: 460px;
+            height: 80px;
+            padding-left: 20px;
+            padding-top: 20px;
+        }
+        .div-blog1-esquerda{
+            background-image: url("/assets/imagens/cafe-230x168.png");
+            width: 230px;
+            height: 168px;
+        }
+        .div-blog1-direita{
+            width: 230px;
+            height: 168px;
+            background: #ffffff;
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-top: 3px;
+        }
+        .h2-blog1{
+            font-size: 11px;
+            font-weight: 400;
+            font-family: 'Montserrat', sans-serif;
+        }
+        .div-comentario-blog{
+            width: 220px;
+            height: 30px;
+            display: flex;
+            justify-content: space-between;
+            margin-top: 0;
+        }
+        .celular-azul-blog{
+            width: 15px;
+            height: 15px;    
+        }
+        .p-admin{
+            font-size: 9px;
+            opacity: 50%;
+        }
+        .p-texto-blog{
+            font-size: 10px;
+            margin-top: 0;
+        }
+        .btn-read-azul{
+            width: 50px;
+            height: 15px;
+            background: none;
+            border: 1px solid #5077FB;
+            color: #5077FB;
+            position: absolute;
+            top: 147px;
+            left: 160px;
+            cursor: pointer;
+            font-size: 8px;
+            font-weight: 400;
+        }
+        .div-blog2-esquerda{
+            background-image: url("/assets/imagens/carro-230x168.png");
+            width: 230px;
+            height: 168px;
+        }
+        .div-blog3-esquerda{
+            background-image: url("/assets/imagens/beleza-230x168.png");
+            width: 230px;
+            height: 168px;
+        }
+        .div-blog4-esquerda{
+            background-image: url("/assets/imagens/symbol-230x168.png");
+            width: 230px;
+            height: 168px;
+        }
+        .div-blog1-direita2{
+            width: 230px;
+            height: 168px;
+            background: #5077Fb;
+            padding-left: 5px;
+            padding-right: 5px;
+            padding-top: 3px;
+        }
+        .h2-blog1-2{
+            font-size: 11px;
+            font-weight: 400;
+            color: #ffffff;
+            font-family: 'Montserrat' , sans-serif; 
+        }
+        
+        .p-texto-blog-2{
+            font-size: 10px;
+            margin-top: 0;
+        }
+        .p-admin-2{
+            font-size: 9px;
+            opacity: 50%;
+        }
+        .btn-read-branco{
+            width: 50px;
+            height: 15px;
+            background: none;
+            border: 1px solid #ffffff;
+            color: #ffffff;
+            position: absolute;
+            top: 147px;
+            left: 160px;
+            cursor: pointer;
+            font-size: 8px;
+            font-weight: 400;
+        
+        }
+        .section-what{
+            width: 460px;
+            height: 80px;
+            padding-top: 25px;
+            padding-left: 20px;
+        }
+        .div-background-what{
+            background-image: url("/assets/imagens/img-celula150x118.png");
+            width: 150px;
+            height: 118px;
+        }
+        .div1-section-what{
+            width: 150px;
+            height: 183px;
+        }
+        .cabeçalho-section-what{
+            width: 150px;
+            height: 65px;
+            background: #ffffff;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding-left: 10px;
+            padding-right: 10px;
+        }
+        .h2-what2{
+            font-size: 13px;
+            font-family: 'Roboto' , sans-serif;
+            font-weight: bold;
+            color: #44434A;  
+        }
+        .h3-what2{
+            font-size: 9px;
+            font-family: 'Roboto' , sans-serif;
+            font-weight: normal;
+            opacity: 50%;
+            color: #44434A;
+            margin-top: 5px;
+        }
+        .img-what2{
+            width: 30px;
+            height: 30px;
+            padding-top: 5px;
+            padding-left: 5px;
+            border-radius: 50%;
+            background: #5077FB;
+        }
+        .img-perfil{
+            width: 20px;
+            height: 20px;
+        }
+        .div-background2-what{
+            background-image: url("/assets/imagens/img-girassol-150x118.png");
+            width: 150px;
+            height: 118px;
+        }
+        .div-background3-what{
+            background-image: url("/assets/imagens/img-grafico-150x118.png");
+            width: 150px;
+            height: 118px;
+        }
+        .section-our{
+            width: 460px;
+            height: 80px;
+            padding-top: 25px;
+            padding-left: 20px;
+        }
+        .article-tom{
+            display: flex;
+            width: 460px;
+        }
+        .div-esquerda-tom{
+            background: #ffffff;
+            width: 230px;
+            height: 343px;
+            position: relative;
+        }
+        .img-our2{
+            width: 200px;
+            height: 300px;
+            object-fit: cover;
+            position: absolute;
+            top: 43px;
+            right: 15px;
+        }
+        .div-direita-tom{
+            width: 230px;
+            height: 343px;
+            background: #E2E2E2;
+            padding-top: 10px;
+            padding-left: 10px;
+            padding-right: 10px;
+            position: relative;
+        }
+        .div-tamanho{
+            width: 38px;
+            height: 38px;
+            border-radius: 10px;
+            border: 1px solid rgba(0, 0, 0, 0.397);
+            padding-top: 9px;
+            padding-left: 9px;
+        }
+        .icone-tamanhos{
+            width: 20px;
+            height: 20px;
+        }
+        .h2-our2{
+            font-size: 15px;
+            font-family: 'Montserrat' , sans-serif;
+            font-weight: 400;
+            margin-top: 10px;
+            color: #1C222D;
+        
+        }
+        .h2-our2-2{
+            font-size: 15px;
+            font-family: 'Montserrat' , sans-serif;
+            font-weight: 400;
+            margin-top: 10px;
+            color: #000000;
+        
+        }
+        .p-our2{
+            font-size: 11px;
+            margin-top: 10px;
+            color: #1C222D;
+            opacity: 70%;
+        }
+        .p-our2-2{
+            font-size: 11px;
+            margin-top: 10px;
+            color: #000000;
+            opacity: 70%;
+        }
+        .div-see{
+            position: absolute;
+            top: 300px;
+            display: flex;
+            gap: 10px;
+        }
+        .article-dereck{
+            width: 460px;
+        }
+        .div-esquerda-dereck{
+            width: 230px;
+            height: 343px;
+            background: #E2E2E2;
+            padding-top: 10px;
+            padding-left: 10px;
+            padding-right: 10px;
+            position: relative;
+            overflow: hidden;
+        }
+        .div-direita-dereck{
+            width: 230px;
+            height: 343px;
+            background: #ffffff;
+            position: relative;
+        }
+        .img-dereck{
+           height: 443px;
+           width: 200px;
+           object-fit: cover;
+           position: absolute;
+           left: 15px;
+           top: 43px;
+        }
+        .article-bob{
+            width: 460px;
+        }
+        .div-esquerda-bob{
+            width: 230px;
+            height: 343px;
+            background: #ffffff;
+            position: relative;
+            overflow: hidden;
+        }
+        .img-bob{
+            width: 200px;
+            height: 440px;
+            object-fit: cover;
+            position: absolute;
+            top: 23px;
+            left: 15px;
+        }
+        .div-direita-bob{
+            width: 230px;
+            height: 343px;
+            padding-top: 10px;
+            padding-left: 10px;
+            padding-right: 10px;
+            background: #E2E2E2;
+            position: relative;
+        }
+        footer{
+            width: 460px;
+        }
+        .section-footer{
+            display: flex;
+            flex-direction: column;
+            width: 460px;
+            gap: 5px;
+        }
+        .mapa-2{
+            display: none;
+        }
+        .div-mapa{
+            width: 460px;
+            height: 400px;  
+        }
+        .mapa-3{
+            display: block;
+            width: 460px;
+            height: 400px;
+        }
+        .div-form{
+            width: 460px;
+            height: 400px;
+            background: #5077FB;
+            padding-top: 20px;
+            padding-left: 20px;
+            padding-right: 10px;
+        }
+        .formulario{
+            align-items: center;
+        }
+
+        .h2-form{
+            text-align: center;
+        }
+        .btn-send{
+            left: 294px;
+        }
+        .seção-2-footer{
+            width: 460px;
+            height: 80px;
+            background: rgba(0, 0, 0, 0.549);
+            text-align: center;
+            padding-top: 20px;
+        }
+        main{
+            width: 460px;
+            margin: 0 auto;
+        }
+        }
